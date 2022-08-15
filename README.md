@@ -29,3 +29,36 @@ Here are some ideas to get you started:
   
 
 <br/>  
+-------------------------------------------------------------------
+# 📊 GitHub Stats:
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=yousefosama654&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yousefosama654&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefosama654&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>  
+
+
+<br/>  
+
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=yousefosama654&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center"></div>
+<br />
+
+----
