@@ -29,7 +29,6 @@ Here are some ideas to get you started:
   
 
 <br/>  
--------------------------------------------------------------------
 # 📊 GitHub Stats:
 <div align="center">
 
