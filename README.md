@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   
 
 <br/>  
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=yousefosama654&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
