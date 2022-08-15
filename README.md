@@ -18,7 +18,6 @@
 <a href="https://linkedin.com/in/yousef-osama-120033216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef-osama-120033216" height="30" width="40" /></a>
 <a href="https://instagram.com/yousefosama654/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yousefosama654" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yousef_osama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yousef_osama" height="30" width="40" /></a>
-<a href="https://discord.gg/yousef_osama02#2178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yousef_osama02#2178" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
