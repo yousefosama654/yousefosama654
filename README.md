@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1P49mU3mOwT1s8LWplWmSnUA6nhhLCEzi](https://drive.google.com/drive/u/0/folders/1P49mU3mOwT1s8LWplWmSnUA6nhhLCEzi)
 
-- ⚡ Fun fact **I think i can reach the top of this field**
+- ⚡ Fun fact **I think I can reach the top of this field**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
